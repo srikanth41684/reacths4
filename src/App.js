@@ -10,7 +10,8 @@ import "./style.css"
 const App = () => {
   return (
     <div>
-      <BrowserRouter>
+
+    <BrowserRouter>
           
         <Navbar />
 
