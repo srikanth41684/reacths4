@@ -1,0 +1,27 @@
+.navbar-nav{
+    width: 100%;
+    justify-content: space-around;
+    background-color: rgba(64, 99, 239, 0.907);
+    font-size: 25px;
+}
+
+.navbar-nav .nav-link{
+    color: #fff;
+}
+
+table{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.student-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.student-header button{
+    width: 250px;
+    background-color: aquamarine;
+    color: orangered;
+}
